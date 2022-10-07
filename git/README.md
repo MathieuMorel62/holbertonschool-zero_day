@@ -33,11 +33,11 @@ GIT
 
       ==> Create these empty files:
 
-           => c/c_is_fun.c
+              c/c_is_fun.c
 
-           => js/main.js
+              js/main.js
 
-           => js/index.js
+              js/index.js
 
       ==> Create a file bash/best with these two lines inside: #!/bin/bash and echo "Best"
 
@@ -115,9 +115,9 @@ GIT
 
    To illustrate that, please merge the branch update_script to main: “Cool, all my changes will be now part of the main branch, ready to be deployed!”
 
-       HHHHHHHAAAAAAAA
+          HHHHHHHAAAAAAAA
  
-       ==> CONFLICT (content): Merge conflict in bash/best
+          CONFLICT (content): Merge conflict in bash/best
 
    As you can see, you have conflicts between two branches on the same file.
 
