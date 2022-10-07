@@ -1,4 +1,4 @@
-GIT
+                                                 GIT
 
 
 RESOURCES
@@ -27,11 +27,11 @@ TASKS
 0. CREATE AND SETUP YOUR GIT AND GITHUB ACCOUNT
 
 
-   => Clone your repository.
+         => Clone your repository.
 
-   => Navigate to this new directory.
+         => Navigate to this new directory.
 
-   => Add this new file to git, commit the change with this message “My first commit” and push to the remote server / origin
+         => Add this new file to git, commit the change with this message “My first commit” and push to the remote server / origin
 
 
 
@@ -41,9 +41,9 @@ TASKS
 
    Make sure you include a not empty README.md in your directory:
 
-      => at the root of your repository
+            => at the root of your repository
 
-      => AND in the directory git
+            => AND in the directory git
 
    And important part: Make sure your commit and push your code to Github - otherwise the Checker will always fail.
 
@@ -53,23 +53,23 @@ TASKS
 
    For the moment we have an empty project directory containing only a README.md. It’s time to code!
 
-      => Create these directories at the root of your project: bash, c, js
+            => Create these directories at the root of your project: bash, c, js
 
-      => Create these empty files:
+            => Create these empty files:
 
-              c/c_is_fun.c
+                    c/c_is_fun.c
 
-              js/main.js
+                    js/main.js
 
-              js/index.js
+                    js/index.js
 
-      => Create a file bash/best with these two lines inside: #!/bin/bash and echo "Best"
+            => Create a file bash/best with these two lines inside: #!/bin/bash and echo "Best"
 
-      => Create a file bash/school with these two lines inside: #!/bin/bash and echo "School"
+            => Create a file bash/school with these two lines inside: #!/bin/bash and echo "School"
 
-      => Add all these new files to git
+            => Add all these new files to git
 
-      => Commit your changes (message: “Starting to code today, so cool”) and push to the remote server
+            => Commit your changes (message: “Starting to code today, so cool”) and push to the remote server
 
 
 
@@ -77,13 +77,13 @@ TASKS
 
    A branch is like a copy of your project. It’s used mainly for:
 
-      => adding a feature in development
+            => adding a feature in development
 
-      => collaborating on the same project with other developers
+            => collaborating on the same project with other developers
 
-      => not breaking your entire repository
+            => not breaking your entire repository
 
-      => not upsetting your co-workers
+            => not upsetting your co-workers
 
 
 
@@ -91,15 +91,15 @@ TASKS
 
    For this project, create a branch update_script and in this branch:
 
-      => Create an empty file named bash/98
+            => Create an empty file named bash/98
 
-      => Update bash/best by replacing echo "Best" with echo "Best School"
+            => Update bash/best by replacing echo "Best" with echo "Best School"
 
-      => Update bash/school by replacing echo "School" with echo "The school is open!"
+            => Update bash/school by replacing echo "School" with echo "The school is open!"
 
-      => Add and commit these changes (message: “My personal work”)
+            => Add and commit these changes (message: “My personal work”)
 
-      => Push this new branch Tips
+            => Push this new branch Tips
 
 
 
@@ -107,13 +107,13 @@ TASKS
 
    Ho wait, your manager needs a quick fix in your project and it needs to be deployed now:
 
-      => Change branch to main
+            => Change branch to main
 
-      => Update the file bash/best by replacing echo "Best" with echo "This School is so cool!"
+            => Update the file bash/best by replacing echo "Best" with echo "This School is so cool!"
 
-      => Delete the directory js
+            => Delete the directory js
 
-      => Commit your changes (message: “Hot fix”) and push to the origin
+            => Commit your changes (message: “Hot fix”) and push to the origin
  
 
 
@@ -125,11 +125,11 @@ TASKS
 
    After you have done that, in your terminal:
 
-      => Get all changes of the main branch locally (i.e. your README.md file will be updated)
+            => Get all changes of the main branch locally (i.e. your README.md file will be updated)
 
-      => Create a new file up_to_date at the root of your directory and in it, write the git command line used
+            => Create a new file up_to_date at the root of your directory and in it, write the git command line used
 
-      => Add up_to_date to git, commit (message: “How to be up to date in git”), and push to the origin
+            => Add up_to_date to git, commit (message: “How to be up to date in git”), and push to the origin
 
 
 
