@@ -7,7 +7,7 @@ Read or watch :
 
    => Resources To Learn Git  ----->  https://intranet.hbtn.io/rltoken/FsIQhm1yTLE3UZyOMwIClw
 
-   => Git And Github Cheat Sheet - Everything In Less Than 30 Seconds  ----->  https://intranet.hbtn.io/concepts/879
+   => Git And Github Cheat Sheet  ----->  https://intranet.hbtn.io/concepts/879
 
    => The Framework  ----->  https://intranet.hbtn.io/concepts/880
 
