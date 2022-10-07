@@ -7,13 +7,15 @@ CONCEPTS
 
    For this projects, we expect you to look at these concepts :
 
-      => Source Code Management  -----> https://intranet.hbtn.io/concepts/878
+   => Source Code Management  -----> https://intranet.hbtn.io/concepts/878
 
-      => Git And Github Cheat Sheet  ----->  https://intranet.hbtn.io/concepts/879
+   => Git And Github Cheat Sheet  ----->  https://intranet.hbtn.io/concepts/879
 
-      => The Framework  ----->  https://intranet.hbtn.io/concepts/880
+   => The Framework  ----->  https://intranet.hbtn.io/concepts/880
 
-      => Approaching A Project  ----->  https://intranet.hbtn.io/concepts/881
+   => Approaching A Project  ----->  https://intranet.hbtn.io/concepts/881
+
+
 GENERAL
 
    => What is source code management
