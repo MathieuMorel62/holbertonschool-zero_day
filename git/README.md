@@ -21,6 +21,9 @@ Resources for advanced tasks:
    => Good Practices For Teams Using Github  ----->  https://intranet.hbtn.io/rltoken/F6QfWb4HU1IgU4mwNEY1cA
 
 
+TASKS
+
+
 0. CREATE AND SETUP YOUR GIT AND GITHUB ACCOUNT
 
 
