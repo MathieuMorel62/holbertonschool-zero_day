@@ -18,7 +18,7 @@ Resources for advanced tasks:
 
    => Learning Branching  ----->  https://intranet.hbtn.io/rltoken/wgk6wsgOUg6bIY1tjt6ehQ
 
-   => Effective Pull Requests and Other Good Practices For Teams Using Github  ----->  https://intranet.hbtn.io/rltoken/F6QfWb4HU1IgU4mwNEY1cA
+   => Good Practices For Teams Using Github  ----->  https://intranet.hbtn.io/rltoken/F6QfWb4HU1IgU4mwNEY1cA
 
 
 0. CREATE AND SETUP YOUR GIT AND GITHUB ACCOUNT
