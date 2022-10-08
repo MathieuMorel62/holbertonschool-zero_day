@@ -6,6 +6,8 @@ RESOURCES
 Read or watch :
 
    => Resources To Learn Git  ----->  https://intranet.hbtn.io/rltoken/FsIQhm1yTLE3UZyOMwIClw
+   <a href="https://intranet.hbtn.io/rltoken/FsIQhm1yTLE3UZyOMwIClw">ressources</a>
+   
 
    => Git And Github Cheat Sheet  ----->  https://intranet.hbtn.io/concepts/879
 
