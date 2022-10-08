@@ -14,7 +14,7 @@ My first commit
 
    - [The Framework](https://intranet.hbtn.io/concepts/880)
 
-   - [Approaching A Project](https://intranet.hbtn.io/concepts/881))
+   - [Approaching A Project](https://intranet.hbtn.io/concepts/881)
 
 
 ## GENERAL
