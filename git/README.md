@@ -139,9 +139,9 @@ Collaboration is cool, but not really when you update the same file at the same 
 
 To illustrate that, please merge the branch update_script to main: “Cool, all my changes will be now part of the main branch, ready to be deployed!”
 
-          HHHHHHHAAAAAAAA
+    HHHHHHHAAAAAAAA
  
-          CONFLICT (content): Merge conflict in bash/best
+    CONFLICT (content): Merge conflict in bash/best
 
 As you can see, you have conflicts between two branches on the same file.
 
