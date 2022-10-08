@@ -2,7 +2,7 @@
 
 ![git](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwJ9W4aDIMkYd2BNYFUbPSDYHfVm1E3-Geg&usqp=CAU)
 
-## RESOURCES
+### RESOURCES
 
 #### Read or watch :
 
