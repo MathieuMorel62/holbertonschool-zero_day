@@ -1,5 +1,3 @@
-My first commit
-
 # GIT
 
 ![git](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7nmWj83b6NTS0l23KgRDY_mN1JmEJuDviMw&usqp=CAU)
