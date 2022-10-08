@@ -1,159 +1,157 @@
-                                                 GIT
+# GIT
 
+![git](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwJ9W4aDIMkYd2BNYFUbPSDYHfVm1E3-Geg&usqp=CAU)
 
-RESOURCES
+## RESOURCES
 
-Read or watch :
+#### Read or watch :
 
-   => Resources To Learn Git  ----->  https://intranet.hbtn.io/rltoken/FsIQhm1yTLE3UZyOMwIClw
-   <a href="https://intranet.hbtn.io/rltoken/FsIQhm1yTLE3UZyOMwIClw">ressources</a>
-   
+- [Resources To Learn Git](https://intranet.hbtn.io/rltoken/FsIQhm1yTLE3UZyOMwIClw)
 
-   => Git And Github Cheat Sheet  ----->  https://intranet.hbtn.io/concepts/879
+- [Git And Github Cheat Sheet](https://intranet.hbtn.io/concepts/879)
 
-   => The Framework  ----->  https://intranet.hbtn.io/concepts/880
+- [The Framework](https://intranet.hbtn.io/concepts/880)
 
-   => Approaching A Project  ----->  https://intranet.hbtn.io/concepts/881
+- [Approaching A Project](https://intranet.hbtn.io/concepts/881)
 
 
-Resources for advanced tasks:
+#### Resources for advanced tasks:
 
-   => Learning Branching  ----->  https://intranet.hbtn.io/rltoken/wgk6wsgOUg6bIY1tjt6ehQ
+- [Learning Branching](https://intranet.hbtn.io/rltoken/wgk6wsgOUg6bIY1tjt6ehQ)
 
-   => Good Practices For Teams Using Github  ----->  https://intranet.hbtn.io/rltoken/F6QfWb4HU1IgU4mwNEY1cA
+- [Good Practices For Teams Using Github](https://intranet.hbtn.io/rltoken/F6QfWb4HU1IgU4mwNEY1cA)
 
 
-TASKS
+# TASKS
 
 
-0. CREATE AND SETUP YOUR GIT AND GITHUB ACCOUNT
+### 0. CREATE AND SETUP YOUR GIT AND GITHUB ACCOUNT
+  
+  - Clone your repository.
 
+  - Navigate to this new directory.
 
-         => Clone your repository.
+  - Add this new file to git, commit the change with this message “My first commit” and push to the remote server / origin
 
-         => Navigate to this new directory.
+--------------------------------
 
-         => Add this new file to git, commit the change with this message “My first commit” and push to the remote server / origin
+### 1. REPO-SESSION
 
 
+Create a new directory called git in your repo.  
 
-1. REPO-SESSION
+Make sure you include a not empty README.md in your directory:
 
-   Create a new directory called git in your repo.
+   - at the root of your repository
 
-   Make sure you include a not empty README.md in your directory:
+   - AND in the directory git
 
-            => at the root of your repository
+And important part: __Make sure your commit and push your code to Github - otherwise the Checker will always fail.__
 
-            => AND in the directory git
+----------------------------------
 
-   And important part: Make sure your commit and push your code to Github - otherwise the Checker will always fail.
+### 2. CODING FURY ROAD
 
+For the moment we have an empty project directory containing only a README.md. It’s time to code !
 
+  - Create these directories at the root of your project: bash, c, js
 
-2. CODING FURY ROAD
+  - Create these empty files:
 
-   For the moment we have an empty project directory containing only a README.md. It’s time to code!
+        c/c_is_fun.c
 
-            => Create these directories at the root of your project: bash, c, js
+        js/main.js
 
-            => Create these empty files:
+        js/index.js
 
-                    c/c_is_fun.c
+ - Create a file bash/best with these two lines inside: #!/bin/bash and echo "Best"
 
-                    js/main.js
+ - Create a file bash/school with these two lines inside: #!/bin/bash and echo "School"
 
-                    js/index.js
+ - Add all these new files to git
 
-            => Create a file bash/best with these two lines inside: #!/bin/bash and echo "Best"
+ - Commit your changes (message: “Starting to code today, so cool”) and push to the remote server
 
-            => Create a file bash/school with these two lines inside: #!/bin/bash and echo "School"
+---------------------------------------
 
-            => Add all these new files to git
+### 3. COLLABORATON IS THE BASE OF A COMPANY
 
-            => Commit your changes (message: “Starting to code today, so cool”) and push to the remote server
 
+A branch is like a copy of your project. It’s used mainly for:  
+    
+  - adding a feature in development
 
+  - collaborating on the same project with other developers
 
-3. COLLABORATON IS THE BASE OF A COMPANY
+  - not breaking your entire repository
 
-   A branch is like a copy of your project. It’s used mainly for:
+  - not upsetting your co-workers
+  
+  
+The purpose of a branch is to isolate your work from the main code base of your project and/or from your co-workers’ work.
 
-            => adding a feature in development
+For this project, create a branch update_script and in this branch:
 
-            => collaborating on the same project with other developers
+  - Create an empty file named bash/98
 
-            => not breaking your entire repository
+  - Update bash/best by replacing echo "Best" with echo "Best School"
 
-            => not upsetting your co-workers
+  - Update bash/school by replacing echo "School" with echo "The school is open!"
 
+  - Add and commit these changes (message: “My personal work”)
 
-
-   The purpose of a branch is to isolate your work from the main code base of your project and/or from your co-workers’ work.
-
-   For this project, create a branch update_script and in this branch:
-
-            => Create an empty file named bash/98
-
-            => Update bash/best by replacing echo "Best" with echo "Best School"
-
-            => Update bash/school by replacing echo "School" with echo "The school is open!"
-
-            => Add and commit these changes (message: “My personal work”)
-
-            => Push this new branch Tips
-
-
-
-   Perfect! You did an amazing update in your project and it’s isolated correctly from the main branch.
-
-   Ho wait, your manager needs a quick fix in your project and it needs to be deployed now:
-
-            => Change branch to main
-
-            => Update the file bash/best by replacing echo "Best" with echo "This School is so cool!"
-
-            => Delete the directory js
-
-            => Commit your changes (message: “Hot fix”) and push to the origin
+  - Push this new branch Tips
  
 
+Perfect! You did an amazing update in your project and it’s isolated correctly from the main branch.
 
-4. COLLABORATION: BE UP TO DATE
+Ho wait, your manager needs a quick fix in your project and it needs to be deployed now:
 
-   Of course, you can also work on the same branch as your co-workers and it’s best if you keep up to date with their changes.
+  - Change branch to main
+
+  - Update the file bash/best by replacing echo "Best" with echo "This School is so cool!"
+
+  - Delete the directory js
+
+  - Commit your changes (message: “Hot fix”) and push to the origin
  
-   For this task – and only for this task – please update your file README.md in the main branch from GitHub.com. It’s the only time you are allowed to update and commit from GitHub interface.
+-----------------------------------
 
-   After you have done that, in your terminal:
+### 4. COLLABORATION: BE UP TO DATE
 
-            => Get all changes of the main branch locally (i.e. your README.md file will be updated)
+Of course, you can also work on the same branch as your co-workers and it’s best if you keep up to date with their changes.  
+ 
+For this task – and only for this task – please update your file README.md in the main branch from GitHub.com. It’s the only time you are allowed to update and commit from GitHub interface.
 
-            => Create a new file up_to_date at the root of your directory and in it, write the git command line used
+After you have done that, in your terminal:
 
-            => Add up_to_date to git, commit (message: “How to be up to date in git”), and push to the origin
+  - Get all changes of the main branch locally (i.e. your README.md file will be updated)
 
+  - Create a new file up_to_date at the root of your directory and in it, write the git command line used
 
+  - Add up_to_date to git, commit (message: “How to be up to date in git”), and push to the origin
 
-5. HAAA WHAT DID YOU DO ???
+----------------------------------
 
-   Collaboration is cool, but not really when you update the same file at the same time…
+### 5. HAAA WHAT DID YOU DO ???
 
-   To illustrate that, please merge the branch update_script to main: “Cool, all my changes will be now part of the main branch, ready to be deployed!”
+Collaboration is cool, but not really when you update the same file at the same time…
+
+To illustrate that, please merge the branch update_script to main: “Cool, all my changes will be now part of the main branch, ready to be deployed!”
 
           HHHHHHHAAAAAAAA
  
           CONFLICT (content): Merge conflict in bash/best
 
-   As you can see, you have conflicts between two branches on the same file.
+As you can see, you have conflicts between two branches on the same file.
 
-   Your goal now is to resolve conflicts by using the version of the branch update_script, and push the result to the origin.
+Your goal now is to resolve conflicts by using the version of the branch update_script, and push the result to the origin.
 
-   At the end, you should have all your work from the branch update_script (new file and two updated files) and all latest main commits (new files, delete folder, etc.), without conflicts.
+At the end, you should have all your work from the branch update_script (new file and two updated files) and all latest main commits (new files, delete folder, etc.), without conflicts.
 
+-----------------------------------
 
+### 6. NEVER PUSH TOO MUCH
 
-6. NEVER PUSH TOO MUCH
-
-   Create a .gitignore file and define a rule to never push ~ files (generated by Emacs).
+Create a .gitignore file and define a rule to never push ~ files (generated by Emacs).
 
