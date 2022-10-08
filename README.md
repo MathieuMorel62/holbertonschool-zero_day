@@ -4,7 +4,7 @@ My first commit
 
 ![git](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7nmWj83b6NTS0l23KgRDY_mN1JmEJuDviMw&usqp=CAU)
 
-## CONCEPTS
+### CONCEPTS
 
    For this projects, we expect you to look at these concepts :
 
@@ -17,7 +17,7 @@ My first commit
    - [Approaching A Project](https://intranet.hbtn.io/concepts/881)
 
 
-## GENERAL
+### GENERAL
 
    - What is source code management
 
