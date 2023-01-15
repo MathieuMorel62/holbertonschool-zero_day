@@ -1,6 +1,6 @@
 # [GIT](https://github.com/MathieuMorel62/holbertonschool-zero_day/tree/master/git)
 
-![git](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7nmWj83b6NTS0l23KgRDY_mN1JmEJuDviMw&usqp=CAU)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7nmWj83b6NTS0l23KgRDY_mN1JmEJuDviMw&usqp=CAU" width="100%">
 
 ### CONCEPTS
 
