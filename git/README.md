@@ -1,5 +1,5 @@
 # GIT
-<img src="https://www.biteinteractive.com/wp-content/uploads/2021/05/git-vs-github.png" height="500px" width="100%">
+<img src="https://www.biteinteractive.com/wp-content/uploads/2021/05/git-vs-github.png" width="100%">
 
 ## RESOURCES
 ### Read or Watch:
