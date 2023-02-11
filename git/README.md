@@ -1,7 +1,45 @@
-# GIT
+# <p align="center">GIT</p>
 <img src="https://www.biteinteractive.com/wp-content/uploads/2021/05/git-vs-github.png" width="100%">
 
-## RESOURCES
+## Description
+### Git & Github
+
+Git and GitHub are essential tools for managing and sharing code.
+
+### What Is Git ?
+
+Git is a free and open-source distributed version control system. It allows developers to track changes to their code and collaborate with other developers on a project. With Git, you can keep a history of your code, revert to previous versions, and manage branches to experiment with new ideas.
+
+### What is GitHub?
+
+GitHub is a web-based platform that provides hosting for Git repositories. It makes it easy to share your code with others and collaborate on projects. GitHub provides a range of tools for project management, issue tracking, and collaboration, making it a popular platform for hosting open-source projects.
+
+### Key Features of Git and GitHub
+
+- **Distributed Version Control:** Git allows you to work with a local copy of your code, so you can work offline and avoid the need for a central server. This also makes it easy to backup your code and collaborate with others.
+- **Branching and Merging:** With Git, you can create branches to experiment with new ideas, and then merge those changes back into the main codebase when you're ready.
+- **Collaboration:** GitHub makes it easy to share your code with others and collaborate on projects. You can invite others to contribute, review changes, and track issues.
+- **Issue Tracking:** GitHub provides a built-in issue tracking system, making it easy to manage bugs, features, and tasks for your project.
+
+### How to Use Git and GitHub
+
+1. Create a repository on GitHub
+2. Clone the repository to your local machine
+3. Make changes to the code
+4. Stage and commit the changes using Git
+5. Push the changes to the remote repository on GitHub
+6. Collaborate with others by reviewing and merging changes
+
+### Best Practices for Git and GitHub
+
+- Write clear and concise commit messages
+- Use branches for new features and bug fixes
+- Keep your repository organized and avoid including unnecessary files
+- Write a README file to provide information about your project
+   
+By using Git and GitHub, you can manage and share your code efficiently and effectively. Whether you're working on a small side project or a large open-source project, these tools will help you keep your code organized and make collaboration easier.
+
+## Resources
 ### Read or Watch:
 
 - [Resources To Learn Git](https://intranet.hbtn.io/rltoken/FsIQhm1yTLE3UZyOMwIClw)
@@ -44,9 +82,9 @@ $ git push origin main
 
 ----------------------------------
 
-# TASKS
+# Tasks
 
-#### [0. Create And Setup Your Git And Github Account](https://github.com/MathieuMorel62/holbertonschool-zero_day/tree/master/git)
+### [0. Create And Setup Your Git And Github Account](https://github.com/MathieuMorel62/holbertonschool-zero_day/tree/master/git)
 
 **Step 0 - Create an account on GitHub**  
 
@@ -132,7 +170,7 @@ You can now check your repository on GitHub to see if everything is good.
 
 --------------------------------
 
-#### [1. Repo-Session](https://github.com/MathieuMorel62/holbertonschool-zero_day/tree/master/git)
+### [1. Repo-Session](https://github.com/MathieuMorel62/holbertonschool-zero_day/tree/master/git)
 
 Create a new directory called `git` in your repo.  
 Make sure you include a not empty `README.md` in your directory:
@@ -143,7 +181,7 @@ And important part: __Make sure your commit and push your code to Github - other
 
 ----------------------------------
 
-#### [2. Coding Fury Road](https://github.com/MathieuMorel62/holbertonschool-zero_day/tree/master/git/c)
+### [2. Coding Fury Road](https://github.com/MathieuMorel62/holbertonschool-zero_day/tree/master/git/c)
 
 For the moment we have an empty project directory containing only a `README.md`. It’s time to code !
 
@@ -159,7 +197,7 @@ For the moment we have an empty project directory containing only a `README.md`.
 
 ---------------------------------------
 
-#### [3. Collaboration Is The Base Of a Company](https://github.com/MathieuMorel62/holbertonschool-zero_day/tree/master/git/bash)
+### [3. Collaboration Is The Base Of a Company](https://github.com/MathieuMorel62/holbertonschool-zero_day/tree/master/git/bash)
 
 A branch is like a copy of your project. It’s used mainly for:  
 - adding a feature in development
@@ -186,7 +224,7 @@ Ho wait, your manager needs a quick fix in your project and it needs to be deplo
  
 -----------------------------------
 
-#### [4. Collaboration: Be Up To Date](https://github.com/MathieuMorel62/holbertonschool-zero_day/blob/master/git/up_to_date)
+### [4. Collaboration: Be Up To Date](https://github.com/MathieuMorel62/holbertonschool-zero_day/blob/master/git/up_to_date)
 
 Of course, you can also work on the same branch as your co-workers and it’s best if you keep up to date with their changes.  
  
@@ -199,7 +237,7 @@ After you have done that, in your terminal:
 
 ----------------------------------
 
-#### [5. Haaa What Did You Do ???](https://github.com/MathieuMorel62/holbertonschool-zero_day/tree/master/git)
+### [5. Haaa What Did You Do ???](https://github.com/MathieuMorel62/holbertonschool-zero_day/tree/master/git)
 
 Collaboration is cool, but not really when you update the same file at the same time…
 
@@ -218,7 +256,7 @@ At the end, you should have all your work from the branch `update_script` (new f
 
 -----------------------------------
 
-#### [6. Never Push Too Much](https://github.com/MathieuMorel62/holbertonschool-zero_day/blob/master/git/.gitignore)
+### [6. Never Push Too Much](https://github.com/MathieuMorel62/holbertonschool-zero_day/blob/master/git/.gitignore)
 
 Create a `.gitignore` file and define a rule to never push ~ files (generated by Emacs). [Tips](https://git-scm.com/docs/gitignore)
 
