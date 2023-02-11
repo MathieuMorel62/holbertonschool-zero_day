@@ -33,9 +33,11 @@ Git is a powerful and highly useful tool for developers. If you have never used 
    - [The Framework](https://intranet.hbtn.io/concepts/880)
    - [Approaching A Project](https://intranet.hbtn.io/concepts/881)
 
+---------------------------------
 
-### `General`
+
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
+#### `General`
 
 <details>
 <summary>What is source code management</summary>
